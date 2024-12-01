@@ -72,9 +72,22 @@ Install the required packages needed for this project which can be found in the 
 
 *recursively install the required packages*
 
+```
 pip install -r requirements.txt
+```
 
-## **Usage**
+
+use the code below to track large data files 
+
+```dotnetcli
+git lfs install
+git lfs track "*name_of dataset.csv"
+git add .gitattributes
+git add *name_of dataset.csv  # Or add files individually
+git commit -m "Add large datasets for bank marketing project"
+git push origin main
+```
+
 
 
 

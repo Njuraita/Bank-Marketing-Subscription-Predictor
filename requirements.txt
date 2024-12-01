@@ -1,0 +1,30 @@
+# Core Libraries
+numpy
+pandas
+
+# Data Visualization Libraries
+matplotlib
+seaborn
+plotly
+
+# Machine Learning Libraries
+scikit-learn
+imblearn
+xgboost
+lightgbm
+
+# Model Evaluation Libraries
+scipy
+
+# Data Utilities
+dask
+joblib
+
+# Hyperparameter Tuning
+optuna
+category_encoders
+
+# Other Utilities
+jupyter
+notebook
+streamlit
