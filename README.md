@@ -17,21 +17,21 @@
 - [🙏 Acknowledgments](#-acknowledgments)
 - [📝 License](#-license.)
 
-## Project description
+**Project description**
 
-Bank Marketting Subscription predictor
+This is a bank marketting subscription predictor project;
 A predictive machine learning project that determines the likelihood of a client subscribing to a term deposit based on features provided in the dataset, for a bank marketing campaign
 
-# 🛠 Built with
+**🛠 Built with**
 - **Data:** Bank CSV files
 - **Language:** Python
 - **Model:** Scikit-learn models (**)
 
-## Project Features
+**Project Features**
 
 
 
-## Key Metrics and Success Criteria
+**Key Metrics and Success Criteria**
 
 1. **Accuracy**: The model should have an accuracy score of at least 80% best at >85%
 2. **Precision and Recall**: Achieve at least 80% to ensure reliable prediction and identification.
@@ -39,7 +39,7 @@ A predictive machine learning project that determines the likelihood of a client
 4. **AUC-ROC Score**: At least 0.85 for effective distinction
 5. **Confusion Matrix**: Lower the number of False Negatives (FN) to ensure most prediction cases are identified.
 
-## 💻 Getting Started
+**💻 Getting Started**
 
 To get a local copy up and running, follow these steps.
 
@@ -73,30 +73,30 @@ Install the required packages needed for this project which can be found in the 
 *recursively install the required packages*
 pip install -r requirements.txt
 
-## Usage
+**Usage*8
 
 
 
 
-## 👥 Author
+**👥 Author**
 
 Sharon Njeri Njuraita
 Email: njerisharon06@gmail.com
 LinkedIn: www.linkedin.com/in/sharon-njeri-njuraita
 
 
-## 🔭 Future Features
+**🔭 Future Features**
 
-## 🤝 Contributing
+**🤝 Contributing**
 pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change
 
-## ⭐️ Show Your Support
+**⭐️ Show Your Support**
 
 
-## 🙏 Acknowledgments
+**🙏 Acknowledgments**
 I would like to thank all the freely available resources made available online.
 
-## 📝 License
+**📝 License**
 This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the LICENSE file for details.
 
 
