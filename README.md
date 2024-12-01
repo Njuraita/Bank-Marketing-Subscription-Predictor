@@ -71,6 +71,7 @@ Activate the virtual environment:
 Install the required packages needed for this project which can be found in the requirements.txt file:
 
 *recursively install the required packages*
+
 pip install -r requirements.txt
 
 ## **Usage**
@@ -81,7 +82,9 @@ pip install -r requirements.txt
 ## **👥 Author**
 
 Sharon Njeri Njuraita
+
 Email: njerisharon06@gmail.com
+
 LinkedIn: www.linkedin.com/in/sharon-njeri-njuraita
 
 
